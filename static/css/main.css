@@ -1,0 +1,91 @@
+/* main.css */
+body, html {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.container {
+    background-color: #f3f3f3;
+    text-align: center;
+    padding: 40px;
+}
+
+.header h1 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+#content {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #327a81;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #215c63;
+}
+
+/* style.css */
+body {
+    background-color: #91ced4;
+}
+
+/* ... rest of your existing style.css ... */
+
+/* index.css */
+.container {
+    background-color: #f3f3f3;
+    text-align: center;
+    padding: 40px;
+}
+
+.header h1 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+#content {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #327a81;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #215c63;
+}
